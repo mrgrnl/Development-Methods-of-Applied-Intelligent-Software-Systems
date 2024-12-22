@@ -1,5 +1,5 @@
 # Riga Technical University - Development Methods of Applied Intelligent Software Systems project
-This project, a practical task developed as part of an RTU course, implements a k-Nearest Neighbors classifier to analyse purchasing behaviour and predict whether a customer will generate revenue. 
+This project, a practical task given as part of an RTU course, implements a k-Nearest Neighbors classifier to analyse purchasing behaviour and predict whether a customer will generate revenue. 
 
 
 ## Project structure 
