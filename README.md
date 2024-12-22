@@ -3,9 +3,9 @@ This project, a practical task given as part of an RTU course, implements a k-Ne
 
 
 ## Project structure 
-There are two files:
-shopping.py: the main script with data processing, model training, and evaluation
-data.csv: the dataset containing data from a shopping website
+There are two files:  
+shopping.py: the main script with data processing, model training, and evaluation   
+data.csv: the dataset containing data from a shopping website  
 
 
 ## Run the script
