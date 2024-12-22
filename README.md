@@ -8,7 +8,7 @@ There are two files:
 - data.csv: the dataset containing data from a shopping website  
 
 
-## Run the script
+## How to run the script
 python shopping.py shopping.csv
 
 
