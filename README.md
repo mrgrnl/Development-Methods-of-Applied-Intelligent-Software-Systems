@@ -2,16 +2,16 @@
 This project, a practical task developed as part of an RTU course, implements a k-Nearest Neighbors classifier to analyse purchasing behaviour and predict whether a customer will generate revenue. 
 
 
-# Project structure 
+## Project structure 
 There are two files:
 shopping.py: the main script with data processing, model training, and evaluation
 data.csv: the dataset containing data from a shopping website
 
 
-# Run the script
+## Run the script
 python shopping.py shopping.csv
 
 
-# Requirements
+## Requirements
 - Python 3.x
 - scikit-learn
